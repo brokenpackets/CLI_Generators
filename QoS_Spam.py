@@ -1,7 +1,7 @@
 basevalue = 200
 intfNumber = '4'
 
-countycount = 300
+countycount = 255
 seqno = 0
 while seqno < countycount:
     seqno +=1
